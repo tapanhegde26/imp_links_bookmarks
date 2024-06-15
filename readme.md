@@ -8,4 +8,4 @@
 
 [Grafana Documentation](https://grafana.com/docs/grafana/latest/)
 
-[Killer-coda interactive learning platfrom] (https://killercoda.com/sachin/course/CKA)
+[Killer-coda interactive learning platfrom](https://killercoda.com/sachin/course/CKA)
